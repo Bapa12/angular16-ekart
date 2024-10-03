@@ -7,12 +7,15 @@ import { Component } from '@angular/core';
 })
 export class ProductListComponent {
 
+  name = "Loki";
+
   product = {
-    name: "iPhone 13",
+    name: "iPhone X",
     price: 789,
-    color: "Ultramarine",
+    color: "Black Titanium",
     discount: 8.5,
-    inStock: 0
+    inStock: 10,
+    pImage: '/assets/images/iphone.png'
   }
 
   getDiscountedPrice() {
