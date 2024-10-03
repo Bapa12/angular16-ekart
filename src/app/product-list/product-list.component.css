@@ -1,7 +1,16 @@
+.ekart-product--container {
+  margin-top: -12px;
+}
+
+p {
+  line-height: 1.5;
+}
+
 button {
-  margin-top: 10px;
-  width: 80px;
-  height: 45px;
+  margin: 10px 5px;
+  padding: 5px 10px;
+  width: 40px;
+  height: 35px;
   background-color: #55679C;
   border-radius: 5px;
   border: 2px groove #001F3F;
@@ -29,6 +38,12 @@ button:hover {
 }
 
 input {
-  margin-top: 7px;
-  color: #8d8b8b;
+  margin-top: 10px;
+  height: 25px;
+  color: #45474B;
+  text-align: center;
+}
+
+.p-input {
+  margin-top: 10px;
 }
