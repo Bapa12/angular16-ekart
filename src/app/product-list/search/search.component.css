@@ -1,0 +1,33 @@
+.ekart--search--product {
+  margin: 40px auto;
+  text-align: center;
+}
+
+.ekart-search-product-input {
+  width: 40%;
+  height: 5.5vh;
+  padding: 1px 10px;
+  outline: none;
+  border-radius: 2px;
+  background-color: #efefef;
+  border: 1px solid #28282B;
+  font-family: "Montserrat", sans-serif;
+}
+
+.btn {
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-search {
+  padding: 12px 30px;
+  margin-left: -5px;
+  background-color: #28282B;
+  color: #fff;
+}
+
+.ekart-search-result-for {
+  margin: 20px auto;
+  padding: 10px 140px;
+}
