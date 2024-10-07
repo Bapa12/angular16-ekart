@@ -226,7 +226,7 @@ export class ProductListComponent {
     },
     {
       id: 16,
-      name: "Bridgport Advice",
+      name: "Bridegport Advice",
       description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       brand: "HUSHPUPPIES",
       gender: "MEN",
@@ -236,7 +236,7 @@ export class ProductListComponent {
       price: 30,
       is_in_inventory: false,
       items_left: 4,
-      imageURL: "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/BRIDGPORT_ADVICE-BLACK_1_800x800.jpg?v=1576567903",
+      imageURL: "https://idealuniform.com/media/catalog/product/cache/f74354c206683476d3c77c44b680ffc9/rdi/rdi/hush-puppies-boys-bridgeport-suede-school-shoes-hp857758-brigeport_1.jpg",
       slug: "bridgport-advice"
     },
     {
@@ -252,7 +252,7 @@ export class ProductListComponent {
       discountPrice:45,
       is_in_inventory: true,
       items_left: 5,
-      imageURL: "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/Beck-Black_800x800.jpg",
+      imageURL: "https://i.ebayimg.com/images/g/FQ0AAOSw7aFa4P8g/s-l1200.jpg",
       slug: "beck"
     },
     {
@@ -267,7 +267,7 @@ export class ProductListComponent {
       price: 70,
       is_in_inventory: true,
       items_left: 6,
-      imageURL: "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/fester-Tan_800x800.jpg?v=1575537531",
+      imageURL: "https://img.joomcdn.net/4188dd6b7b9a445657d5ef157f7f3421ba39fda3_1024_1024.jpeg",
       slug: "fester"
     },
     {
@@ -282,7 +282,7 @@ export class ProductListComponent {
       price: 75,
       is_in_inventory: true,
       items_left: 7,
-      imageURL: "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/PIXEL-TAN_800x800.jpg?v=1577420506",
+      imageURL: "https://ferracinitienda.cl/cdn/shop/files/6503-p-havana-1600a6e3-f95a-4f0f-8746-e0992135fd0a-2c37e4a4-2b10-429d-ae32-ffc1f9153cad_5e7c6515-5243-42cd-ac8b-0c6c9f8a2049_700x700.jpg?v=1717009483",
       slug: "pixel"
     },
     {
@@ -298,7 +298,7 @@ export class ProductListComponent {
       discountPrice:60,
       is_in_inventory: false,
       items_left: 2,
-      imageURL: "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/Austin-Coffee_800x800.jpg?v=1574772988",
+      imageURL: "https://www.deejaysshoes.co.nz/cdn/shop/products/300595_BLK_3.jpg?v=1607921262&width=1946",
       slug: "austin"
     },
     {
@@ -313,7 +313,7 @@ export class ProductListComponent {
       price: 30,
       is_in_inventory: true,
       items_left: 6,
-      imageURL: "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/009240000-11-SS-HL-0135-Black_800x800.jpg?v=1572264270",
+      imageURL: "https://5.imimg.com/data5/EB/CJ/MY-27996995/hush-puppies-women-black-heels-f75469720000eg-500x500.png",
       slug: "ss-hl-0135"
     },
     {
@@ -329,7 +329,7 @@ export class ProductListComponent {
       discountPrice:35,
       is_in_inventory: true,
       items_left: 4,
-      imageURL: "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/009250000-779-SS-HL-0136-Coffee_800x800.jpg?v=1571900372",
+      imageURL: "https://cdn.salla.sa/QalVr/zUUMs8Xbr6QCkwmNpm4nvgwtnFq65aRrDC5IlrL3.jpg",
       slug: "ss-hl-0136"
     },
     {
@@ -344,7 +344,7 @@ export class ProductListComponent {
       price: 35,
       is_in_inventory: true,
       items_left: 3,
-      imageURL: "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/000300242-484-SS-HL-0128-Blue_800x800.jpg?v=1583235174",
+      imageURL: "https://shoebox.co.za/cdn/shop/files/Soft-Style-Hush-Puppies-Phillipa-Court-Heel-Red-Heels-Soft-Style-by-Hush-Puppies-2_2d78c346-4374-43e8-bc55-a4eba7ac9fe3.jpg?v=1713779744",
       slug: "ss-hl-0128"
     },
     {
@@ -359,7 +359,7 @@ export class ProductListComponent {
       price: 25,
       is_in_inventory: false,
       items_left: 7,
-      imageURL: "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/009170000-479-SS-MS-0075-Red_800x800.jpg?v=1570688687",
+      imageURL: "https://assets.hushpuppies.com/is/image/hp/8200000000582003_460_ss_03?impolicy=qlt-medium-high&imwidth=640&imdensity=2",
       slug: "ss-ms-0075"
     },
     {
@@ -374,7 +374,7 @@ export class ProductListComponent {
       price: 35,
       is_in_inventory: true,
       items_left: 4,
-      imageURL: "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/009170000-615-SS-MS-0075-TAN_800x800.jpg?v=1570688687",
+      imageURL: "https://assets.hushpuppies.com/is/image/hp/8200000000573216_201_ss_01?impolicy=qlt-medium-high&imwidth=640&imdensity=1",
       slug: "ss-ms-0075"
     },
     {
@@ -389,7 +389,7 @@ export class ProductListComponent {
       price: 30,
       is_in_inventory: false,
       items_left: 3,
-      imageURL: "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/SS-PM-0093_1_800x800.jpg?v=1570601253",
+      imageURL: "https://assets.hushpuppies.com/is/image/hp/8200000000573787_110_ss_01?impolicy=qlt-medium-high&imwidth=640&imdensity=1",
       slug: "ss-pm-0093"
     },
     {
@@ -497,7 +497,7 @@ export class ProductListComponent {
       price: 70,
       is_in_inventory: true,
       items_left: 3,
-      imageURL: "https://assets.reebok.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/7599294868804d78a1b1ab6f01718a5e_9366/Club_C_Revenge_Men's_Shoes_White_FV9877_01_standard.jpg",
+      imageURL: "https://images.reebok.eu/19/72/96/41/19729641_44793741_2048.jpg",
       slug: "club-c-revenge-mens"
     },
     {
