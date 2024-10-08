@@ -16,6 +16,7 @@
 
 .btn {
   padding: 5px 10px;
+  height: 54px;
   border: none;
   cursor: pointer;
 }
@@ -25,6 +26,17 @@
   margin-left: -5px;
   background-color: #28282B;
   color: #fff;
+  font-family: "Montserrat", sans-serif;
+  font-size: 13px;
+}
+
+.btn-search-disabled {
+  padding: 12px 30px;
+  background-color: #aaa;
+  margin-left: -1px;
+  color: #999;
+  border: 1px solid #aaa;
+  cursor: not-allowed;
 }
 
 .ekart-search-result-for {
