@@ -530,6 +530,37 @@ export class ProductListComponent {
       items_left: 3,
       imageURL: "https://images.vans.com/is/image/Vans/MV122M-HERO?$583x583$",
       slug: "michael-feburary-sk8-hi"
+    },
+    {
+      id: 34,
+      name: "Skechers Slip-ins: BOBS Skip Cute",
+      description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      brand: "Skechers",
+      gender: "WOMEN",
+      category: "CASUAL",
+      size: [7, 8, 9, 10],
+      color: ["Brown", "Black"],
+      price: 60,
+      is_in_inventory: true,
+      items_left: 5,
+      imageURL: "https://www.skechers.com/dw/image/v2/BDCN_PRD/on/demandware.static/-/Sites-skechers-master/default/dwf4d09275/images/large/114816_CHMT_E.jpg?sw=800",
+      slug: "skechers-slip-ins-bobs-skip-cute"
+    },
+    {
+      id: 35,
+      name: "Court Break - Enchanted Glitz",
+      description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      brand: "Skechers",
+      gender: "WOMEN",
+      category: "CASUAL",
+      size: [7, 8, 9, 10],
+      color: ["Silver", "Multi"],
+      price: 65,
+      discountPrice: 38,
+      is_in_inventory: true,
+      items_left: 2,
+      imageURL: "https://qvc.scene7.com/is/image/QVC/a/17/a640417.003",
+      slug: "court-break-enchanted-glitz"
     }
   ];
 
