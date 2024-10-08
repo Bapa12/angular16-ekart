@@ -359,7 +359,7 @@ export class ProductListComponent {
       price: 25,
       is_in_inventory: false,
       items_left: 7,
-      imageURL: "https://assets.hushpuppies.com/is/image/hp/8200000000582003_460_ss_03?impolicy=qlt-medium-high&imwidth=640&imdensity=2",
+      imageURL: "https://assets.hushpuppies.com/is/image/hp/8200000000573216_201_ss_01?impolicy=qlt-medium-high&imwidth=640&imdensity=1",
       slug: "ss-ms-0075"
     },
     {
@@ -374,7 +374,7 @@ export class ProductListComponent {
       price: 35,
       is_in_inventory: true,
       items_left: 4,
-      imageURL: "https://assets.hushpuppies.com/is/image/hp/8200000000573216_201_ss_01?impolicy=qlt-medium-high&imwidth=640&imdensity=1",
+      imageURL: "https://assets.hushpuppies.com/is/image/hp/8200000000578947_003_ss_01?impolicy=qlt-medium-high&imwidth=640&imdensity=1",
       slug: "ss-ms-0075"
     },
     {
@@ -389,7 +389,7 @@ export class ProductListComponent {
       price: 30,
       is_in_inventory: false,
       items_left: 3,
-      imageURL: "https://assets.hushpuppies.com/is/image/hp/8200000000573787_110_ss_01?impolicy=qlt-medium-high&imwidth=640&imdensity=1",
+      imageURL: "https://www.hushpuppies.com.pk/cdn/shop/products/IMG_3031.jpg?v=1666246336",
       slug: "ss-pm-0093"
     },
     {
