@@ -30,6 +30,10 @@
   color: #fff;
 }
 
+.btn-search:hover {
+  background-color: #7D7C7C;
+}
+
 .btn-search-disabled {
   padding: 12px 30px;
   background-color: #aaa;
