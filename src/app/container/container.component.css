@@ -2,3 +2,36 @@
   margin: 20px auto;
   padding: 0px 20vh;
 }
+
+.ekart-featured-products {
+  background-color: #28282B;
+  padding: 20px 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.ekart-featured-product-heading {
+  width: 320px;
+  /* margin: 10px 10px; */
+  margin: 10px 10px 10px -64px;
+  padding: 20px 30px;
+  color: #fff;
+  text-align: start;
+}
+
+.title,
+.call-to-action {
+  margin: 10px 0px;
+  text-align: center;
+}
+
+.call-to-action {
+  background-color: #28282B;
+  color: #fff;
+  width: 100%;
+  padding: 10px 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 14px;
+}
