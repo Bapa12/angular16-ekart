@@ -15,7 +15,7 @@
   cursor: pointer;
 }
 
-.ekart--product--details--info{
+.ekart--product--details--info {
   position: absolute;
   z-index: 10;
   background-color: white;
@@ -26,25 +26,29 @@
   bottom: 0;
   padding: 10px 25px;
 }
-.ekart-product-detail-close{
+
+.ekart-product-detail-close {
   text-align: right;
   color:#28282B;
   font-size: 20px;
   font-weight: lighter;
   padding: 5px 0px;
 }
-.ekart-product-detail-image{
+
+.ekart-product-detail-image {
   width: 100%;
   height: 320px;
 }
-.ekart-product-detail{
+
+.ekart-product-detail {
   padding: 10px 0px;
 }
-.ekart-product-detail-gbc{
+
+.ekart-product-detail-gbc {
   margin: 20px 0px;
 }
 
-.ekart-product-detail-gbc > span{
+.ekart-product-detail-gbc > span { 
   background-color: #28282B;
   margin-left: 0px;
   padding: 5px 20px;
@@ -52,69 +56,83 @@
   color: white;
 }
 
-.ekart-product-detail-name{
+.ekart-product-detail-name {
   margin: 20px auto;
 }
-.ekart-product-detail-price{
+
+.ekart-product-detail-price { 
   font-size: 14px;
   margin:30px 0px;
   padding: 25px 10px;
   background-color: #EEEDEB;
   border: 2px solid #A9A9A9;
   border-radius: 5px; 
+  text-align: center;
 }
-.ekart-product-detail-size{
+
+.ekart-product-detail-size {
   margin: 30px 0px;
 }
-span{
+
+span {
   padding: 5px 10px;
   margin: 5px 5px;
   border-radius: 5px;
 }
-.ekart-product-detail-available-size{
-  margin: 0px 0px;
+
+.ekart-product-detail-available-size {
+  /* margin: 0px 0px; */
   background-color: #28282B; 
   color:white;
   border-radius: 0px;
   padding: 10px 15px;
   font-size: 16px;
 }
-.ekart-product-detail-available-color{
+
+.ekart-product-detail-available-color {
   border-radius: 50%;
   padding: 8px 18px;
   border: 1px solid #181C14;
   cursor: pointer;
 }
+
 .ekart-product-detail-available-color:hover {
   box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
 }
-.ekart-product-detail-desc{
+
+.ekart-product-detail-desc { 
   margin-top: 30px;
   font-size: 14px;
 }
-.ekart-product-detail-addtoCart{
+
+.ekart-product-detail-addtoCart {
   margin: 20px 0px;
 }
-.btn-add-to-cart{
+
+.btn-add-to-cart {
   border: none;
   background-color: #28282B;
   padding: 10px 30px;
-  font-size: 20px;
+  font-size: 15px;
   color: #fff;
   font-weight: bold;
   cursor: pointer;
+  font-family: "Montserrat", sans-serif;
 }
 
 .scroll {
   overflow-y: scroll;
 }
+
 .scroll::-webkit-scrollbar {
   width:5px;
 }
+
 .scroll::-webkit-scrollbar-track {
   -webkit-box-shadow:inset 0 0 6px rgba(0,0,0,0.3); 
   border-radius:5px;
 }
+
 .scroll::-webkit-scrollbar-thumb {
   border-radius:5px;
   -webkit-box-shadow: inset 0 0 6px #28282B; 
