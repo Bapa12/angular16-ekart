@@ -16,6 +16,7 @@ import { ProductDetailComponent } from './container/product-detail/product-detai
 import { FeaturedBrandsComponent } from './container/featured-brands/featured-brands.component';
 import { SetBackground } from './customDirectives/setBackground.directive';
 import { HighlightDirective } from './customDirectives/highlight.directive';
+import { AppHoverDirective } from './customDirectives/app-hover.directive';
 
 @NgModule({
   declarations: [
@@ -32,7 +33,8 @@ import { HighlightDirective } from './customDirectives/highlight.directive';
     ProductDetailComponent,
     FeaturedBrandsComponent,
     SetBackground,
-    HighlightDirective
+    HighlightDirective,
+    AppHoverDirective
   ],
   imports: [
     BrowserModule,
